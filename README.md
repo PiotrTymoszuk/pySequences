@@ -101,8 +101,8 @@ saveImage('ulam_spiral_randoms')
 
 ```
 <p float="center">
-  <img src="https://github.com/user-attachments/assets/00dbd891-6a8a-46e3-8f69-7f799874cdf6" width="500" alt="Prime numbers"/>
-  <img src="https://github.com/user-attachments/assets/0536060d-a70e-4236-8129-71964fc8a26a" width="500" alt="Random integers"/> 
+  <img src="https://github.com/user-attachments/assets/00dbd891-6a8a-46e3-8f69-7f799874cdf6" width="350" alt="Prime numbers"/>
+  <img src="https://github.com/user-attachments/assets/0536060d-a70e-4236-8129-71964fc8a26a" width="350" alt="Random integers"/> 
 </p>
 <p float="center">
   <em>Ulam spirals for prime numbers (left) and random integers (right) from the 2 to 5000 range</em>
